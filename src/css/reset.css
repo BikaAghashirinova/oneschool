@@ -13,7 +13,13 @@ img{
 }
 a{
     text-decoration: none; 
+    color: #fff;
 }
 button{
     cursor: pointer;
+    color: #fff;
 }
+ input,
+ button {
+    outline: none;
+ }
